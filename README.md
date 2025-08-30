@@ -9,7 +9,8 @@ app="FASTADMIN-框架" || body="\"uploadurl\":\"ajax\/upload\"" || body="api.fas
 Usage: python3 fastadmin.py -f urls.txt -t 100
 
 
-![](https://tva1.sinaimg.cn/large/008eGmZEgy1gp6m7yqb06j314o0dgdxn.jpg)
+<img width="786" height="350" alt="wechat_2025-08-31_000347_189" src="https://github.com/user-attachments/assets/ac00b632-67b3-43cd-8516-3f688bf5468d" />
+
 
 **默认Webshell密码为q
 
